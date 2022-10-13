@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">guess</string>
+    <string name="plesae_enter_a_number">Plesae enter a number(1~10)</string>
+    <string name="ok">OK</string>
+    <string name="you_got_it">You got it</string>
+    <string name="bigger">Bigger</string>
+    <string name="smaller">Smaller</string>
+    <string name="dailog_title">Message</string>
+    <string name="title_activity_material">MaterialActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="count_times">count times</string>
+    <string name="guess_number">guess number</string>
+    <string name="guess_ans">\"Excellent The number is \"</string>
+    <string name="restart">Restart</string>
+    <string name="are_you_sure">Are you sure?</string>
+
 </resources>
